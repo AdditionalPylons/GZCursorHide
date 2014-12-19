@@ -44,5 +44,7 @@ Temporary Items
 .apdisk
 
 x86
+x64
 Debug
 Release
+ipch
