@@ -10,6 +10,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GZInjector", "GZInjector\GZ
 		{545D63DE-D0EF-4762-90DB-AC3573150977} = {545D63DE-D0EF-4762-90DB-AC3573150977}
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F7B159EE-6647-4EEC-BFB5-93AB0E3047D2}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +56,7 @@ Global
 		{AC3B59A9-3574-48C5-903B-B1F7542E027B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{AC3B59A9-3574-48C5-903B-B1F7542E027B}.Release|Win32.ActiveCfg = Release|Any CPU
 		{AC3B59A9-3574-48C5-903B-B1F7542E027B}.Release|x64.ActiveCfg = Release|Any CPU
+		{AC3B59A9-3574-48C5-903B-B1F7542E027B}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
