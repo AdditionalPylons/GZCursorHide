@@ -1,0 +1,16 @@
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\bin\Release\GZInjector.exe.config
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\Release\GZInjector.exe.config
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\Release\GZInjector.exe
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\Release\GZInjector.pdb
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\MainWindow.baml
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\MainWindow.g.cs
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\App.g.cs
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\GZInjector_MarkupCompile.cache
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\GZInjector.g.resources
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\GZInjector.Properties.Resources.resources
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\GZInjector.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\GZInjector.exe
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\GZInjector\obj\Release\GZInjector.pdb
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\x64\Release\GZInjector.exe.config
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\x64\Release\GZInjector.exe
+c:\users\david\documents\visual studio 2013\Projects\GZCursorHide\x64\Release\GZInjector.pdb
